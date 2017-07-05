@@ -1,0 +1,1 @@
+alias crunchy='cd ; touch peanutbutter.txt ; echo "Is the best!" > peanutbutter.txt ;  pwd >> peanutbutter.txt ; chmod a+rw peanutbutter.txt'
