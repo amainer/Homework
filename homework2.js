@@ -12,13 +12,13 @@ for (i = 1; i <=100; i++) {
 
 //Homework 2 Problem 2
 
-myArray = [5,5,5,5,5,5]
-myArray2 = [5,10]
+let myArray = [5,5,5,5,5,5];
+let myArray2 = [5,10];
 
 function getAverage (array) {
   let sum = 0;
   for (item in array) {
-    sum += array[item]
+    sum += array[item];
   }
   return Math.floor(sum/array.length);
 
