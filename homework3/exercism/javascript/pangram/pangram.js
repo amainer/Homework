@@ -1,4 +1,4 @@
-var Pangram = function(sentence) {
+let Pangram = function(sentence) {
   this.sentence = sentence
 }
 
